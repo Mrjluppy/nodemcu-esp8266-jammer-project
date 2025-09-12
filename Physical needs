@@ -1,0 +1,12 @@
+NodeMCU ESP-12E (ESP8266MOD) – Main Wi-Fi module and controller.
+🔹 Note: You can also use (1) Wemos boards or other (1) ESP8266-based modules, but make sure to install the correct driver for your specific module.
+
+TP4056-TypeC (2) – Lithium charging module with USB Type-C port
+
+Rocker Key (3) – For manual control and switching
+
+18650 Li-ion Battery (4) – Recommended: Maxcell 2000mAh, 15C, 3.7V/4.2V rechargeable battery
+
+18650 Battery Holder (5) – Holder for the 18650 lithium battery
+
+Cooling Fan (6) (Optional) – Small, energy-efficient fans (4×4 cm or smaller, ≤1.57 in)
